@@ -1,3 +1,3 @@
 # Dynamic Programming Learnings
 
-All the concepts and code will be pushed here.
+All the concepts and code of dynamic programming will be pushed here.
